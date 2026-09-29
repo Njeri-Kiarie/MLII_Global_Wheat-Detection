@@ -1,6 +1,6 @@
 # MLII_Plant_Disease_Detection
 
-# 🌿 Plant Disease Classification Using Deep Learning
+# Plant Disease Classification Using Deep Learning
 
 ## Project Overview
 
