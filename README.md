@@ -104,7 +104,7 @@ The CNN was trained using:
 - **Epochs:** 10
 - **Evaluation Metric:** Accuracy
 
-During training, accuracy increased from **63.72% to 94.88%**.
+During training, accuracy increased to **94.88%**.
 
 The best validation accuracy was **93.52% at epoch 8**, while the final validation accuracy was **91.30%**.
 
